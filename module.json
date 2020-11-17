@@ -13,7 +13,7 @@
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.7.7",
   "url": "https://github.com/velara/foundryvtt-forien-quest-log",
-  "manifest": "https://github.com/velara/foundryvtt-forien-quest-log/blob/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/velara/foundryvtt-forien-quest-log/master/module.json",
   "download": "https://github.com/velara/foundryvtt-forien-quest-log/archive/0.5.2.zip",
   "readme": "https://github.com/velara/foundryvtt-forien-quest-log/blob/master/README.md",
   "changelog": "https://github.com/Forien/foundryvtt-forien-quest-log/blob/master/changelog.md",
