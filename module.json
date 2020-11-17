@@ -9,9 +9,9 @@
       "url": "https://www.patreon.com/forien"
     }
   ],
-  "version": "0.5.1",
+  "version": "0.5.2",
   "minimumCoreVersion": "0.6.0",
-  "compatibleCoreVersion": "0.7.1",
+  "compatibleCoreVersion": "0.7.7",
   "url": "https://github.com/velara/foundryvtt-forien-quest-log",
   "manifest": "https://github.com/velara/foundryvtt-forien-quest-log/blob/master/module.json",
   "download": "https://github.com/velara/foundryvtt-forien-quest-log/archive/0.5.2.zip",
