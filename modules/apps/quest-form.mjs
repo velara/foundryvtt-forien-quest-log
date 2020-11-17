@@ -142,9 +142,9 @@ export default class QuestForm extends FormApplication {
   }
 
 
-  async close() {
+  async close(options) {
     if (this.submitted) {
-      return super.close();
+      return super.close(options);
     }
 
     new Dialog({
